@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: reemc_gazebo
+    relative_path: models/reemc_full/model.urdf
+  SRDF:
+    relative_path: config/reemc.srdf
+  CONFIG:
+    generated_timestamp: 1384514814
