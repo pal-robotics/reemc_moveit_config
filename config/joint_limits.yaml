@@ -1,97 +1,97 @@
 joint_limits:
   arm_right_7_joint:
     has_velocity_limits: true
-    max_velocity: 1.77
+    max_velocity: &max_vel 1.0
     has_acceleration_limits: false
     max_acceleration: 0
   hand_left_middle_1_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   hand_left_index_2_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   hand_left_middle_2_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   leg_left_4_joint:
     has_velocity_limits: true
-    max_velocity: 3.25
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   leg_left_1_joint:
     has_velocity_limits: true
-    max_velocity: 2.35
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   hand_left_middle_3_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   hand_right_index_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   leg_right_2_joint:
     has_velocity_limits: true
-    max_velocity: 2.27
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   arm_right_2_joint:
     has_velocity_limits: true
-    max_velocity: 4.12
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   arm_right_4_joint:
     has_velocity_limits: true
-    max_velocity: 5.15
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   leg_left_3_joint:
     has_velocity_limits: true
-    max_velocity: 3.64
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   leg_right_6_joint:
     has_velocity_limits: true
-    max_velocity: 2.27
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   arm_right_1_joint:
     has_velocity_limits: true
-    max_velocity: 5.4
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   arm_right_3_joint:
     has_velocity_limits: true
-    max_velocity: 5.15
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   arm_left_2_joint:
     has_velocity_limits: true
-    max_velocity: 4.12
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   leg_right_5_joint:
     has_velocity_limits: true
-    max_velocity: 2.44
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   leg_right_4_joint:
     has_velocity_limits: true
-    max_velocity: 3.25
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   leg_right_3_joint:
     has_velocity_limits: true
-    max_velocity: 3.64
+    max_velocity: *max_vel
     has_acceleration_limits: false
     max_acceleration: 0
   hand_left_middle_joint:
