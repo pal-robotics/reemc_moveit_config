@@ -1087,4 +1087,7 @@
     <!-- Custom-->
     <disable_collisions link1="hand_right_palm_link" link2="arm_right_5_link" reason="Never" />
     <disable_collisions link1="hand_left_palm_link" link2="arm_left_5_link" reason="Never" />
+
+    <disable_collisions link1="hand_right_thumb_link" link2="arm_right_5_link" reason="Never" />
+    <disable_collisions link1="hand_left_thumb_link" link2="arm_left_5_link" reason="Never" />
 </robot>
