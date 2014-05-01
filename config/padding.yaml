@@ -1,0 +1,30 @@
+default_robot_padding: 0.005
+
+default_robot_link_padding:
+  arm_left_5_link:          &arm_5_padd 0.01
+  hand_left_index_1_link:   &hand_padd 0.02
+  hand_left_index_2_link:   *hand_padd
+  hand_left_index_3_link:   *hand_padd
+  hand_left_middle_1_link:  *hand_padd
+  hand_left_middle_2_link:  *hand_padd
+  hand_left_middle_3_link:  *hand_padd
+  hand_left_thumb_link:     *hand_padd
+  hand_left_palm_link:      *hand_padd
+
+  arm_left_5_link:          *arm_5_padd
+  hand_right_index_1_link:  *hand_padd
+  hand_right_index_2_link:  *hand_padd
+  hand_right_index_3_link:  *hand_padd
+  hand_right_middle_1_link: *hand_padd
+  hand_right_middle_2_link: *hand_padd
+  hand_right_middle_3_link: *hand_padd
+  hand_right_thumb_link:    *hand_padd
+  hand_right_palm_link:     *hand_padd
+
+  hand_left_index_link:            0
+  hand_left_middle_link:           0
+  hand_right_index_link:           0
+  hand_right_middle_link:          0
+  stereo_gazebo_left_camera_link:  0
+  stereo_gazebo_right_camera_link: 0
+  stereo_link:                     0

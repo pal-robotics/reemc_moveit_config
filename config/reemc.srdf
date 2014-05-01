@@ -1083,4 +1083,8 @@
     <disable_collisions link1="stereo_link" link2="torso_1_link" reason="Never" />
     <disable_collisions link1="stereo_link" link2="torso_2_link" reason="Never" />
     <disable_collisions link1="torso_1_link" link2="torso_2_link" reason="Adjacent" />
+
+    <!-- Custom-->
+    <disable_collisions link1="hand_right_palm_link" link2="arm_right_5_link" reason="Never" />
+    <disable_collisions link1="hand_left_palm_link" link2="arm_left_5_link" reason="Never" />
 </robot>
