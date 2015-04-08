@@ -2,6 +2,12 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Remove gazebo_dependency.
+  Getting urdf using xacro from reemc_description.
+* Contributors: Luca Marchionni
+
 0.2.1 (2015-04-08)
 ------------------
 * Merge pull request #3 from pal-robotics/fix-ik-spec
