@@ -2,8 +2,8 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.1 (2015-04-08)
+------------------
 * Merge pull request #3 from pal-robotics/fix-ik-spec
   Remove KDL IK solvers for non-chain groups.
 * Merge pull request #2 from pal-robotics/joint-limits
