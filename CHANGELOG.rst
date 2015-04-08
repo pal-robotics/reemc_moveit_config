@@ -2,8 +2,8 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.2 (2015-04-08)
+------------------
 * Remove gazebo_dependency.
   Getting urdf using xacro from reemc_description.
 * Contributors: Luca Marchionni
