@@ -1,5 +1,5 @@
 <launch>
-  <arg name="robot" default="full" />
+  <arg name="robot" default="full_ft_hey5" />
   <!-- By default we do not overwrite the URDF. Change the following to true to change the default behavior -->
   <arg name="load_robot_description" default="false"/>
 

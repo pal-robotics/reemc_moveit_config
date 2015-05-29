@@ -5,7 +5,7 @@
 
   <!-- By default, we are not in debug mode -->
   <arg name="debug" default="false" />
-  <arg name="robot" value="full" />
+  <arg name="robot" value="full_ft_hey5" />
 
   <!-- Load the URDF, SRDF and other .yaml configuration files on the param server -->
   <include file="$(find reemc_moveit_config)/launch/planning_context.launch">

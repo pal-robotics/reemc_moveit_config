@@ -1,5 +1,5 @@
  <launch>
-  <arg name="robot" default="full"/>
+  <arg name="robot" default="full_ft_hey5"/>
 
   <include file="$(find reemc_moveit_config)/launch/planning_context.launch">
     <arg name="robot" value="$(arg robot)" />
