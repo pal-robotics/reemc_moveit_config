@@ -2,6 +2,15 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Allow collisions between same hand links
+* config defaults to true now
+* Roslaunch 'robot' arg: default to 'full_ft_hey5'
+  Previous default was 'full'.
+* Add reemc-ft-hey5 stuff and argument passing for launching it
+* Contributors: Adolfo Rodriguez Tsouroukdissian, Bence Magyar
+
 0.2.2 (2015-04-08)
 ------------------
 * Remove gazebo_dependency.
