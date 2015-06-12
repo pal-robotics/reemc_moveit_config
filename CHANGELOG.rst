@@ -2,8 +2,8 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.4 (2015-06-12)
+------------------
 * Add missing runtime dependency
 * Contributors: Adolfo Rodriguez Tsouroukdissian
 
