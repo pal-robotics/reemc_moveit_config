@@ -2,6 +2,11 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add missing runtime dependency
+* Contributors: Adolfo Rodriguez Tsouroukdissian
+
 0.2.3 (2015-06-09)
 ------------------
 * Allow collisions between same hand links
