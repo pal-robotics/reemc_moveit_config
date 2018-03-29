@@ -2,6 +2,14 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'add_missing_collisions' into 'dubnium-devel'
+  Add missing collisions
+  See merge request robots/reemc_moveit_config!1
+* Added missing collisions
+* Contributors: Hilario Tome, Jordan Palacios
+
 0.3.0 (2016-04-05)
 ------------------
 
