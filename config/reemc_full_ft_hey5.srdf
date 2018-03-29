@@ -4385,4 +4385,63 @@
     <disable_collisions link1="hand_left_thumb_flex_2_link" link2="hand_left_index_flex_3_link" reason="User" />
     <disable_collisions link1="hand_left_thumb_flex_2_link" link2="hand_left_middle_flex_3_link" reason="User" />
     <disable_collisions link1="hand_left_thumb_flex_2_link" link2="hand_left_ring_flex_3_link" reason="User" />
+
+    <disable_collisions link1="hand_left_little_abd_link" link2="hand_left_ring_abd_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_1_link" link2="hand_left_ring_abd_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_1_link" link2="hand_left_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_1_link" link2="hand_left_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_1_link" link2="hand_left_ring_virtual_1_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_1_link" link2="hand_left_ring_virtual_2_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_1_link" link2="hand_left_ring_virtual_3_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_2_link" link2="hand_left_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_2_link" link2="hand_left_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_2_link" link2="hand_left_ring_flex_3_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_2_link" link2="hand_left_ring_virtual_2_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_2_link" link2="hand_left_ring_virtual_3_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_3_link" link2="hand_left_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_3_link" link2="hand_left_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_3_link" link2="hand_left_ring_flex_3_link" reason="User" />
+    <disable_collisions link1="hand_left_little_flex_3_link" link2="hand_left_ring_virtual_3_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_1_link" link2="hand_left_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_1_link" link2="hand_left_ring_virtual_1_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_2_link" link2="hand_left_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_2_link" link2="hand_left_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_2_link" link2="hand_left_ring_virtual_2_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_3_link" link2="hand_left_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_3_link" link2="hand_left_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_3_link" link2="hand_left_ring_flex_3_link" reason="User" />
+    <disable_collisions link1="hand_left_little_virtual_3_link" link2="hand_left_ring_virtual_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_abd_link" link2="hand_right_ring_abd_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_1_link" link2="hand_right_ring_abd_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_1_link" link2="hand_right_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_1_link" link2="hand_right_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_1_link" link2="hand_right_ring_flex_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_1_link" link2="hand_right_ring_virtual_1_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_1_link" link2="hand_right_ring_virtual_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_1_link" link2="hand_right_ring_virtual_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_2_link" link2="hand_right_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_2_link" link2="hand_right_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_2_link" link2="hand_right_ring_flex_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_2_link" link2="hand_right_ring_virtual_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_2_link" link2="hand_right_ring_virtual_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_3_link" link2="hand_right_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_3_link" link2="hand_right_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_3_link" link2="hand_right_ring_flex_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_3_link" link2="hand_right_ring_virtual_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_flex_3_link" link2="hand_right_ring_virtual_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_1_link" link2="hand_right_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_1_link" link2="hand_right_ring_virtual_1_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_2_link" link2="hand_right_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_2_link" link2="hand_right_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_2_link" link2="hand_right_ring_flex_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_2_link" link2="hand_right_ring_virtual_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_2_link" link2="hand_right_ring_virtual_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_3_link" link2="hand_right_ring_flex_1_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_3_link" link2="hand_right_ring_flex_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_3_link" link2="hand_right_ring_flex_3_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_3_link" link2="hand_right_ring_virtual_2_link" reason="User" />
+    <disable_collisions link1="hand_right_little_virtual_3_link" link2="hand_right_ring_virtual_3_link" reason="User" />
+
+    <disable_collisions link1="wrist_left_ft_link" link2="arm_left_7_link" reason="User" />
+    <disable_collisions link1="wrist_right_ft_link" link2="arm_right_7_link" reason="User" />
 </robot>
