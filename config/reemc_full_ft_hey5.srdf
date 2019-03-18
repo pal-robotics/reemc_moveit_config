@@ -4444,4 +4444,7 @@
 
     <disable_collisions link1="wrist_left_ft_link" link2="arm_left_7_link" reason="User" />
     <disable_collisions link1="wrist_right_ft_link" link2="arm_right_7_link" reason="User" />
+
+    <disable_collisions link1="head_2_link" link2="camera_link" reason="Never" />
+
 </robot>

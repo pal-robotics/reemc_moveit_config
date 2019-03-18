@@ -1083,4 +1083,5 @@
     <disable_collisions link1="stereo_link" link2="torso_1_link" reason="Never" />
     <disable_collisions link1="stereo_link" link2="torso_2_link" reason="Never" />
     <disable_collisions link1="torso_1_link" link2="torso_2_link" reason="Adjacent" />
+    <disable_collisions link1="head_2_link" link2="camera_link" reason="Never" />
 </robot>
