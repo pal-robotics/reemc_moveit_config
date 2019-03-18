@@ -2,8 +2,8 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.2 (2019-03-18)
+------------------
 * Merge branch 'realsense' into 'dubnium-devel'
   Remove collision between camera_link and head2_link (realsense)
   See merge request robots/reemc_moveit_config!2
