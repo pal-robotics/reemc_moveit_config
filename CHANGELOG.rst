@@ -2,6 +2,16 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'hand_collisions' into 'dubnium-devel'
+  Disable some collisions of the hand
+  See merge request robots/reemc_moveit_config!3
+* Disable more hand collisions
+* Disable some collisions of the hand
+* Disable some collisions of the hand
+* Contributors: Adria Roig, Victor Lopez
+
 0.3.2 (2019-03-18)
 ------------------
 * Merge branch 'realsense' into 'dubnium-devel'
