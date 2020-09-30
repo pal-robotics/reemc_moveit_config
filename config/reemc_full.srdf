@@ -84,6 +84,10 @@
         <joint name="hand_left_index_joint" />
         <joint name="hand_left_middle_joint" />
         <joint name="hand_left_thumb_joint" />
+        <link name="hand_left_index_link" />
+        <link name="hand_left_thumb_link" />
+        <link name="hand_left_mrl_link" />
+        <link name="hand_left_palm_link" />
     </group>
     <group name="right_hand">
         <link name="hand_right_palm_link" />
@@ -96,6 +100,10 @@
         <joint name="hand_right_thumb_joint" />
         <joint name="hand_right_middle_joint" />
         <joint name="hand_right_index_joint" />
+        <link name="hand_right_index_link" />
+        <link name="hand_right_thumb_link" />
+        <link name="hand_right_mrl_link" />
+        <link name="hand_right_palm_link" />
     </group>
     <group name="both_arms">
         <joint name="arm_left_1_joint" />
