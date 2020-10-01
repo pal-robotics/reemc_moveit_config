@@ -2,6 +2,9 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.3.3 (2019-08-01)
 ------------------
 * Merge branch 'hand_collisions' into 'dubnium-devel'
