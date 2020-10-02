@@ -2,8 +2,8 @@
 Changelog for package reemc_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.5 (2020-10-02)
+------------------
 * Merge branch 'hey5_marker' into 'dubnium-devel'
   Add hand links in the hand groups
   See merge request robots/reemc_moveit_config!4
